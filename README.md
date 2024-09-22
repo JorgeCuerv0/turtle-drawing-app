@@ -16,10 +16,10 @@ This project is a Turtle Drawing Application developed as part of SMC CS 87 cour
 ## Getting Started
 
 ### Prerequisites
-- Python 3.x installed on your machine.
+- Python installed on your machine.
 - Turtle graphics library (included with Python standard library).
 
 ### Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/JorgeCuerv0/your-repo-name.git
+   git clone https://github.com/JorgeCuerv0/turtle-drawing-app.git
